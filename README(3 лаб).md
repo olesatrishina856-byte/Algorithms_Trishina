@@ -327,7 +327,7 @@ n = 17 -> cap = 32
 ---
 
 **Ссылка на репозиторий:**  
-[https://github.com/galyatvasilevna/studies](https://github.com/galyatvasilevna/studies)
+[https://github.com/olesatrishina856-byte/Algorithms_Trishina/blob/main/README(3%20лаб).md](https://github.com/olesatrishina856-byte/Algorithms_Trishina/blob/main/README(3%20лаб).md)
 
 ---
 
