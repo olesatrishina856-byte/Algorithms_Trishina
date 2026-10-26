@@ -229,7 +229,7 @@ front = Первый
 ---
 
 **Ссылка на репозиторий:**  
-[https://github.com/galyatvasilevna/studies](https://github.com/galyatvasilevna/studies)
+[https://github.com/olesatrishina856-byte/Algorithms_Trishina/blob/main/README(2лаб).md](https://github.com/olesatrishina856-byte/Algorithms_Trishina/blob/main/README(2лаб).md)
 
 ---
 
