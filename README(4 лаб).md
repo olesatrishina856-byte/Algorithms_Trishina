@@ -241,7 +241,7 @@ int main() {
 ---
 
 **Ссылка на репозиторий:**  
-[https://github.com/galyatvasilevna/studies](https://github.com/galyatvasilevna/studies)
+[https://github.com/olesatrishina856-byte/Algorithms_Trishina/blob/main/README(4%20лаб).md](https://github.com/olesatrishina856-byte/Algorithms_Trishina/blob/main/README(4%20лаб).md)
 
 ---
 
