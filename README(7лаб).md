@@ -213,6 +213,11 @@ int main() {
 
 ---
 
+## Ссылка на репозиторий
+[https://github.com/olesatrishina856-byte/Algorithms_Trishina/tree/main](https://github.com/olesatrishina856-byte/Algorithms_Trishina/tree/main)
+
+---
+
 ## Контрольные вопросы
 
 **1. Какова сложность быстрой сортировки в лучшем, среднем и худшем случае?**
